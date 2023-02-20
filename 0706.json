@@ -32,12 +32,12 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"If101","name":"🥇If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "drpy_js_if101","name": "🥇If101[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},
+{"key": "drpy_js_if101","name": "🥇If101[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/if101.js"},
 {"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 //{"key":"csp_AppTT","name":"🥇图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
 {"key":"BuLei","name":"🥇布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_xpath_olevod","name":"🥇欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
-{"key": "drpy_js_多瑙影视","name": "💿多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
+{"key": "csp_xpath_olevod","name":"🥇欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXP/olevod.json"},
+{"key": "drpy_js_多瑙影视","name": "💿多瑙影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/多瑙影视.js"},
 		
 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
@@ -75,19 +75,19 @@
 
 
 //////////////////////////////////////////////////////////////////////////
-{"key":"csp_xpath_17skr","name":" 🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/17skr.json"},
-//{"key":"csp_xpath_dmw","name":" 🌾动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/dmw.json"},
-{"key":"csp_xpath_ysjdm","name":" 🥇💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/ysjdm.json"},
-//{"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/ysjdm.json"},      
+{"key":"csp_xpath_17skr","name":" 🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXP/17skr.json"},
+//{"key":"csp_xpath_dmw","name":" 🌾动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXP/dmw.json"},
+{"key":"csp_xpath_ysjdm","name":" 🥇💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXP/ysjdm.json"},
+//{"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXP/ysjdm.json"},      
 //{"key":"csp_xpath_17skr","name":"🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/axu2tlfh.json"},     
-//{"key":"csp_xp_omofun","name": "🥇💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/omofun.json"},
+//{"key":"csp_xp_omofun","name": "🥇💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXP/omofun.json"},
 {"key":"csp_Anime1","name": "💢小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/agemys.json"},
-//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
-//{"key":"csp_xpath_dm84","name":" 🌾动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/dm84.json"},
-{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
+{"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXP/agemys.json"},
+//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXP/dm84.json"},
+//{"key":"csp_xpath_dm84","name":" 🌾动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXP/dm84.json"},
+{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXP/yinghua.json"},
 
-//{"key": "drpy_js_AnFuns","name": " 🥇💢AnFuns[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/AnFuns.js"},
+//{"key": "drpy_js_AnFuns","name": " 🥇💢AnFuns[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/AnFuns.js"},
 //{"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1"},
  {
             "key" : "Dm84",
